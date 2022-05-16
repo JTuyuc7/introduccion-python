@@ -1,0 +1,8 @@
+print(10)
+print(5)
+print(3 + 8)
+print(100-50)
+print(500/20)
+print(2*8)
+print(4**4, 'resultado')
+print( 4 * (2+2))
